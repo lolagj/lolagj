@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 
 🌱Estoy interesada en Big Data, Machine Learning y Data Science. Esto me llevó a relizar un Máster de Ingeniería del Software orientado a ingeniería de datos. Tras finalizar mis estudios, he continuado formándome de forma autodidacta en ciencia de datos.
 
-🔭Actualmente me encuentro trabajando como técnica de investigación en el Hospital Universitario Virgen Macarena, dentro del grupo provincial TIC.
+🔭Actualmente me encuentro trabajando como técnica de investigación en el Hospital Universitario Virgen Macarena, dentro del grupo provincial TIC de sevilla.
 
