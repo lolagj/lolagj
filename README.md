@@ -23,6 +23,7 @@ Actualmente me encuentro trabajando como técnica de investigación en el Hospit
 
 Puedes contactar conmigo a través de email o linkedin.
 
-![Linkedin](https://user-images.githubusercontent.com/59959667/168159567-27cd6359-8e22-4039-a641-5319e9e5892f.svg]
 
 
+
+![linkedin(1)](https://user-images.githubusercontent.com/59959667/168159791-463695e9-9789-4681-8eec-adffdd55cc68.svg)
