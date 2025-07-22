@@ -18,6 +18,3 @@ Here are some ideas to get you started:
 :books: Me llamo Lola, y soy ingeniera de la salud por la Universidad de Sevilla. Soy una apasionada de las nuevas tecnologías y creo firmemente en el gran potencial que tienen dentro del ámbito de la salud. 
 
 🌱Estoy interesada en Big Data, Machine Learning y Data Science. Esto me llevó a relizar un Máster de Ingeniería del Software orientado a ingeniería de datos. Tras finalizar mis estudios, he continuado formándome de forma autodidacta en ciencia de datos. Actualmente, estoy cursando un máster de Big Data y Data Science en la Universidad Internacional de Valencia.
-
-🔭Actualmente me encuentro trabajando como Técnica de Investigación en el Hospital Universitario Virgen Macarena, dentro del Equipo Provincial TIC de Sevilla.
-
